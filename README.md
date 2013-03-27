@@ -5,8 +5,9 @@ This program is a free software associated with the paper: "Parameter inference 
 
 Yuanfeng Wang, Scott Christley, Eric Mjolsness and Xiaohui Xie, BMC Systems Biology 2010, 4:99 doi:10.1186/1752-0509-4-99.
 
-The code is implemented with Matlab(version 2008a), which can be found here: Download SGD
-(Copyright @ Yuanfeng Wang)
+The code is implemented with Matlab(version 2008a) (Copyright @ Yuanfeng Wang)
+
+
 Instruction of use
 
 Open and run the file "main_sgd" in the fold using matlab, choose to input the datafile either using graphic interface or by specifying the file directory.
